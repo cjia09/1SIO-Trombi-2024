@@ -27,6 +27,16 @@
 	src: url("BARTHELEMY/Acme-Regular.ttf");
 }
 
+#DAVID {
+		border-radius: 15px;
+		background: linear-gradient(to bottom, black, #aaa);
+	img{
+		width: 300px;
+		border-radius: 7px;
+	}
+}
+
+
 #ABOODI {
 background:linear-gradient(to bottom right, red, purple);
 	border-radius: 20%;
